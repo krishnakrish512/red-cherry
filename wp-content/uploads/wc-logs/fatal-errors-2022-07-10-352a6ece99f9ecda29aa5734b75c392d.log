@@ -1,0 +1,265 @@
+2022-07-10T06:40:18+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:141
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(36): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 141
+
+2022-07-10T06:44:23+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:141
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(36): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 141
+
+2022-07-10T06:47:58+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:141
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 141
+
+2022-07-10T06:48:18+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:141
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 141
+
+2022-07-10T07:11:59+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:141
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 141
+
+2022-07-10T07:16:17+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:16:31+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:16:50+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:18:08+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:20:34+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:21:33+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:502
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 502
+
+2022-07-10T07:22:31+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:23:01+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:23:12+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:24:46+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:34:19+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:34:47+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:35:16+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:35:42+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:40:05+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T07:40:29+00:00 CRITICAL Uncaught Error: Call to undefined function ecommerce_product_sharing() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php:498
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\laragon\\www\\...', false)
+#2 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php(61): wc_get_template_part('content', 'single-product')
+#3 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\content-single-product.php on line 498
+
+2022-07-10T08:11:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php:39
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php on line 39
+
+2022-07-10T08:13:16+00:00 CRITICAL Cannot redeclare ecommerce_product_sharing() (previously declared in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\src\helper.php:29) in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php on line 41
+
+2022-07-10T10:19:51+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on bool in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php:48
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php on line 48
+
+2022-07-10T10:23:21+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php:45
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php on line 45
+
+2022-07-10T10:23:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php:45
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include()
+#1 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#2 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\woocommerce\single-product.php on line 45
+

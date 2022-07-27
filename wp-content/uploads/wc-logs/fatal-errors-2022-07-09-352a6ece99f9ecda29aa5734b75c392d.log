@@ -1,0 +1,36 @@
+2022-07-09T06:43:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_single_product_html() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php:30
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-includes\template.php(716): load_template('C:\\laragon\\www\\...', false, Array)
+#2 C:\laragon\www\red-cherry\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\page.php(15): get_template_part('/partials/flexi...')
+#4 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#7 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php on line 30
+
+2022-07-09T06:44:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_single_product_html() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php:30
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-includes\template.php(716): load_template('C:\\laragon\\www\\...', false, Array)
+#2 C:\laragon\www\red-cherry\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\page.php(15): get_template_part('/partials/flexi...')
+#4 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#7 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php on line 30
+
+2022-07-09T06:48:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_single_product_html() in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php:31
+Stack trace:
+#0 C:\laragon\www\red-cherry\wp-includes\template.php(772): require()
+#1 C:\laragon\www\red-cherry\wp-includes\template.php(716): load_template('C:\\laragon\\www\\...', false, Array)
+#2 C:\laragon\www\red-cherry\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\laragon\www\red-cherry\wp-content\themes\red-cherry\page.php(15): get_template_part('/partials/flexi...')
+#4 C:\laragon\www\red-cherry\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\red-cherry\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#6 C:\laragon\www\red-cherry\index.php(17): require('C:\\laragon\\www\\...')
+#7 {main}
+  thrown in C:\laragon\www\red-cherry\wp-content\themes\red-cherry\partials\flexible-content\feature_product.php on line 31
+

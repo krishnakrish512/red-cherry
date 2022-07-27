@@ -1,0 +1,83 @@
+.bg-cover{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body .product-info  .theme-btn-one,
+body .product-info  .theme-btn-two{
+  line-height: 42px;
+}
+
+.product-block-two .img-holder,
+.product-section-five .product-block-three .img-holder{
+  height: auto;
+}
+
+.shop-hero-slider-one .item{
+  height: 75vh;
+}
+
+
+
+.slick-arrow {
+  position: relative;
+  font-size: 0;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 71px;
+  color: var(--heading);
+  margin-left: 8px;
+  cursor: pointer;
+  transform: scale(0.8);
+  transition: all 0.3s ease-in-out;
+
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  z-index: 2;
+}
+.slick-arrow.slick-prev{
+  right: 100px;
+}
+.slick-arrow::after {
+  font-size: 28px;
+  display: inline-block;
+  font-family: bootstrap-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -0.125em;
+  -webkit-font-smoothing: antialiased;
+}
+.slick-arrow.slick-prev:after {
+  content: "\f12f";  
+}
+.slick-arrow.slick-next:after {
+  content: "\f138";  
+}
+.slick-arrow:before {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50%;
+  top: 50%;
+  margin: -50px 0 0 -50px;
+  transform: scale(0);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+}
+.slick-arrow:hover:before {
+  transform: scale(1);
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+}
+.slick-arrow:hover {
+    background: #161616;
+    color: #fff;
+}
